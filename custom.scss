@@ -1,0 +1,32 @@
+// @font-face {
+//   font-family: "Bebas";
+//   src: url(fonts/BebasNeue_Bold.otf) format("opentype");
+// }
+h1, h2{
+    font-family: "bebas-neue", "Futura", Helvetica, sans-serif;
+    color: #f9f9f9;
+    // font-size: 2em;
+}
+
+
+body {
+  padding-top: 50px;
+  background-color: #444;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+nav {
+    display: none;
+}
+
+.banner {
+    width: 100%;
+}
+
+a {
+    font-family: "bebas-neue", "Futura", Helvetica, sans-serif;
+    color: #f9f9f9;
+}
