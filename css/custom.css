@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "Bebas";
+  src: url(fonts/BebasNeue_Bold.otf) format("opentype"); }
+.title {
+  text-align: center; }
+
 h1, h2, h3, h4, h5, h6, p, li {
   color: #f9f9f9; }
 
@@ -19,8 +25,8 @@ body {
   padding: 40px 15px;
   text-align: center; }
 
-nav {
-  display: none; }
+nav > li > a {
+  align: right; }
 
 .banner {
   width: 100%; }
@@ -28,3 +34,9 @@ nav {
 a {
   font-family: "bebas-neue", "Futura", Helvetica, sans-serif;
   color: #3396d5; }
+
+.thumb {
+  margin-bottom: 30px; }
+
+footer {
+  margin: 50px 0; }
