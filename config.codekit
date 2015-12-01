@@ -11,6 +11,78 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/bebas\/bebasneue_bold-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bebas\/bebasneue_bold-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bebas\/bebasneue_book-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bebas\/bebasneue_book-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bebas\/bebasneue_light-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bebas\/bebasneue_light-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bebas\/bebasneue_regular-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bebas\/bebasneue_regular-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bebas\/bebasneue_thin-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bebas\/bebasneue_thin-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bebas\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bebas\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bebas\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bebas\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bebas\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bebas\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/bower_components\/bootstrap\/bower.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -3083,6 +3155,138 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/campus\/campus11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 319233,
+		"inputAbbreviatedPath": "\/img\/campus\/campus11.jpg",
+		"outputAbbreviatedPath": "\/img\/campus\/campus11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus\/campus11_sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122159,
+		"inputAbbreviatedPath": "\/img\/campus\/campus11_sm.jpg",
+		"outputAbbreviatedPath": "\/img\/campus\/campus11_sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus\/campus17.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 348733,
+		"inputAbbreviatedPath": "\/img\/campus\/campus17.jpg",
+		"outputAbbreviatedPath": "\/img\/campus\/campus17.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus\/campus17_sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120166,
+		"inputAbbreviatedPath": "\/img\/campus\/campus17_sm.jpg",
+		"outputAbbreviatedPath": "\/img\/campus\/campus17_sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus\/campus18.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 434970,
+		"inputAbbreviatedPath": "\/img\/campus\/campus18.jpg",
+		"outputAbbreviatedPath": "\/img\/campus\/campus18.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus\/campus18_sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131481,
+		"inputAbbreviatedPath": "\/img\/campus\/campus18_sm.jpg",
+		"outputAbbreviatedPath": "\/img\/campus\/campus18_sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus\/campus2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 449122,
+		"inputAbbreviatedPath": "\/img\/campus\/campus2.jpg",
+		"outputAbbreviatedPath": "\/img\/campus\/campus2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus\/campus2_sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 141955,
+		"inputAbbreviatedPath": "\/img\/campus\/campus2_sm.jpg",
+		"outputAbbreviatedPath": "\/img\/campus\/campus2_sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus\/campus3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 343801,
+		"inputAbbreviatedPath": "\/img\/campus\/campus3.jpg",
+		"outputAbbreviatedPath": "\/img\/campus\/campus3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus\/campus3_sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108940,
+		"inputAbbreviatedPath": "\/img\/campus\/campus3_sm.jpg",
+		"outputAbbreviatedPath": "\/img\/campus\/campus3_sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus\/campus4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 330167,
+		"inputAbbreviatedPath": "\/img\/campus\/campus4.jpg",
+		"outputAbbreviatedPath": "\/img\/campus\/campus4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus\/campus4_sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121157,
+		"inputAbbreviatedPath": "\/img\/campus\/campus4_sm.jpg",
+		"outputAbbreviatedPath": "\/img\/campus\/campus4_sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/campus_teaser.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3156,6 +3360,28 @@
 		"initialSize": 193991,
 		"inputAbbreviatedPath": "\/img\/muncie_teaser.png",
 		"outputAbbreviatedPath": "\/img\/muncie_teaser.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/site_bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74404,
+		"inputAbbreviatedPath": "\/img\/site_bg.jpg",
+		"outputAbbreviatedPath": "\/img\/site_bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/site_bg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30560,
+		"inputAbbreviatedPath": "\/img\/site_bg.png",
+		"outputAbbreviatedPath": "\/img\/site_bg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
