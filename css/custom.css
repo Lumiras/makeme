@@ -48,6 +48,11 @@ h2, h3, h4 {
   font-family: "bebas_neuebold", Helvetica, sans-serif;
   color: #f9f9f9; }
 
+p {
+  font-family: "roboto", sans-serif;
+  font-weight: 400;
+  color: #f9f9f9; }
+
 .quote {
   font-family: "Roboto";
   color: #fff;
@@ -91,3 +96,10 @@ footer {
 
 img {
   box-shadow: 0px 1px 10px #111; }
+
+.logo {
+  box-shadow: none; }
+
+li {
+  font-family: "Roboto", sans-serif;
+  color: #f9f9f9; }
