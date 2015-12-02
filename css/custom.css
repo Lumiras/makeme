@@ -29,6 +29,13 @@
   src: url("../bebas/bebasneue_thin-webfont.eot?#iefix") format("embedded-opentype"), url("../bebas/bebasneue_thin-webfont.woff2") format("woff2"), url("../bebas/bebasneue_thin-webfont.woff") format("woff"), url("../bebas/bebasneue_thin-webfont.ttf") format("truetype"), url("../bebas/bebasneue_thin-webfont.svg#bebas_neuethin") format("svg");
   font-weight: normal;
   font-style: normal; }
+a {
+  font-weight: 700;
+  color: #cce; }
+
+a:hover {
+  color: #cde; }
+
 .title {
   text-align: center; }
 
