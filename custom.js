@@ -8,13 +8,7 @@ $(document).ready(function(){
               }
           }
       });
-    //   var feed = new Instafeed({
-    //       get: 'tagged',
-    //       tagName: 'awesome',
-    //       clientId: 'f92b3e17910840b8a934c030c5baa7f2',
-    //       template: '<a href="{{link}}"><img src="{{image}}" /></a>'
-    //     });
-      //
-    //   feed.run();
-
+    $("#campus1").hover(function(){
+        $(this).attr('src', $(this).attr('src').replace(/\.jpg/, '-on.jpg') );
+    });
 });
